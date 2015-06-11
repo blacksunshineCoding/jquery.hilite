@@ -1,0 +1,14 @@
+span.mark {
+	background: yellow;
+	color: black;
+}
+
+span.mark.now {
+	background: yellow;
+	color: black;
+}
+
+span.mark.now {
+	background: yellow !important;
+	color: black;
+}
